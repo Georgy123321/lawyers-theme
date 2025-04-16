@@ -80,7 +80,7 @@
 |## Скриншоты
 
 ### Главная
-![Главная](themes/lawyers/screenshots/preview-1.png)
+![Главная](/themes/lawyers-theme/screenshots/preview-1.png)
 
 ### Услуги
 ![Услуги](themes/lawyers/screenshots/preview-2.png)
