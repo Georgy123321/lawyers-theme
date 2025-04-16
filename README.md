@@ -77,7 +77,7 @@
 
 | Главная | Услуги | Новости |
 |--------|--------|---------|
-| ![](./wp-content/themes/lawyers/screenshots/preview-1.png) | ![](./wp-content/themes/lawyers/screenshots/preview-2.png) | ![](./wp-content/themes/lawyers/screenshots/preview-3.png) |
+| ![](./theme/screenshots/preview-1.png) | ![](./themes/lawyers/screenshots/preview-2.png) | ![](./themes/lawyers/screenshots/preview-3.png) |
 
 ---
 
