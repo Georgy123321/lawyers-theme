@@ -77,8 +77,16 @@
 
 | Главная | Услуги | Новости |
 |--------|--------|---------|
-| ![Главная страница](theme/lawyers/screenshots/preview-1.png)
- | ![](./themes/lawyers/screenshots/preview-2.png) | ![](./themes/lawyers/screenshots/preview-3.png) |
+|## Скриншоты
+
+### Главная
+![Главная](themes/lawyers/screenshots/preview-1.png)
+
+### Услуги
+![Услуги](themes/lawyers/screenshots/preview-2.png)
+
+### Новости
+![Новости](themes/lawyers/screenshots/preview-3.png)
 
 ---
 
