@@ -75,18 +75,13 @@
 
 ## 📸 Скриншоты
 
-| Главная | Услуги | Новости |
-|--------|--------|---------|
-|## Скриншоты
-
-### Главная
 ![Главная](/themes/lawyers-theme/screenshots/preview-1.png)
 
 ### Услуги
-![Услуги](themes/lawyers/screenshots/preview-2.png)
+![Услуги](/themes/lawyers-theme/screenshots/preview-2.png)
 
 ### Новости
-![Новости](themes/lawyers/screenshots/preview-3.png)
+![Новости](/themes/lawyers-theme/screenshots/preview-3.png)
 
 ---
 
